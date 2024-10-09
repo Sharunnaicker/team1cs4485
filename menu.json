@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Margherita Pizza",
+        "description": "Classic pizza with tomatoes, mozzarella, and basil.",
+        "price": 12.99,
+        "category": "Main Course",
+        "ingredients": [
+            "tomatoes",
+            "mozzarella",
+            "basil",
+            "dough"
+        ],
+        "dietary_info": [
+            "vegetarian"
+        ]
+    },
+    {
+        "name": "Caesar Salad",
+        "description": "Crisp romaine lettuce with Caesar dressing and croutons.",
+        "price": 8.99,
+        "category": "Appetizer",
+        "ingredients": [
+            "romaine lettuce",
+            "croutons",
+            "parmesan",
+            "dressing"
+        ],
+        "dietary_info": [
+            "gluten-free",
+            "vegetarian"
+        ]
+    },
+    {
+        "name": "Chocolate Lava Cake",
+        "description": "Warm chocolate cake with a gooey molten center.",
+        "price": 6.50,
+        "category": "Dessert",
+        "ingredients": [
+            "chocolate",
+            "flour",
+            "sugar",
+            "eggs"
+        ],
+        "dietary_info": [
+            "vegetarian"
+        ]
+    }
+]
